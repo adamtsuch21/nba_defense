@@ -2,7 +2,7 @@
 
 Does Defense Win Championships?
 
-An exploratory analysis into whether defense or offense had a bigger impact on winning teams in the NBA, from the introduction of the 3-point shot in the NBA onwards.
+An exploratory analysis into whether defense or offense had a bigger impact on winning teams in the NBA, from the introduction of the 3-point shot onwards.
 
 Data Acquisition
 
